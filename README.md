@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairzafar14&label=Profile%20views&color=0e75b6&style=flat" alt="umairzafar14" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🚀 [My Personal Portfolio](https://umairzafar14.github.io/My-Portfolio/)
 
-- 🌱 I’m currently learning **React & Next.js**
+- 👨🏻‍💻 I’m currently learning **React & Next.js**
 
 - 💬 Ask me about **React, WordPress, Shopify, Data Science**
 
