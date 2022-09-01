@@ -7,7 +7,7 @@
 
 - 🚀 [My Personal Portfolio](https://umairzafar14.github.io/My-Portfolio/)
 
-- 👨🏻‍💻 I’m currently learning **React & Next.js**
+- 👨🏻‍💻 Learning **React & Next.js**
 
 - 💬 Ask me about **React, WordPress, Shopify, Data Science**
 
